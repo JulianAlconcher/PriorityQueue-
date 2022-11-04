@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1664539409 source:g:\otros ordenadores\mi pc\1 uns\organizacion de computadoras\proyecto-1\proyecto-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"colacp.h"
+
+1664449650 g:\otros ordenadores\mi pc\1 uns\organizacion de computadoras\proyecto-1\proyecto-1\tda_cola_con_prioridad.h
+
+1667497511 g:\otros ordenadores\mi pc\1 uns\organizacion de computadoras\proyecto-1\proyecto-1\colacp.h
+
+1667508322 source:g:\otros ordenadores\mi pc\1 uns\organizacion de computadoras\proyecto-1\proyecto-1\planificador.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"colacp.h"
+
+1667518227 source:d:\uns\2022 2do cuatri\organizacion de computadoras\proyecto-1-orga\planificador.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"colacp.h"
+
+1667512054 d:\uns\2022 2do cuatri\organizacion de computadoras\proyecto-1-orga\colacp.h
+
+1667507768 source:g:\otros ordenadores\mi pc\1 uns\organizacion de computadoras\proyecto-1\proyecto-1\colacp.c
+	<stdio.h>
+	<stdlib.h>
+	"colacp.h"
+
+1667515418 source:d:\uns\2022 2do cuatri\organizacion de computadoras\proyecto-1-orga\colacp.c
+	<stdio.h>
+	<stdlib.h>
+	"colacp.h"
+
+1667168766 source:c:\users\julia\onedrive\documentos\orga\proyecto-1\colacp.c
+	<stdio.h>
+	<stdlib.h>
+	"colacp.h"
+
+1666574927 c:\users\julia\onedrive\documentos\orga\proyecto-1\colacp.h
+
+1667168377 source:c:\users\julia\onedrive\documentos\orga\proyecto-1\planificador.c
+	<stdio.h>
+	<stdlib.h>
+	"colacp.h"
+
